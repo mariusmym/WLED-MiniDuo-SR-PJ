@@ -49,7 +49,7 @@ https://www.printables.com/model/1232890
 ## If you want to edit the PCB
 **Project can also be found here:** https://oshwlab.com/mariusmym/wled-miniduo-sr-pwr_jack-pro-v1-3
 
-##Donate ☕
+## Donate ☕
 If you'd like to say thanks or buy me a coffee, a **[PayPal donation](https://www.paypal.com/donate/?hosted_button_id=KHR7DYJP2Z8QJ)** is always appreciated!
 
 Have fun and enjoy it ! 😊
