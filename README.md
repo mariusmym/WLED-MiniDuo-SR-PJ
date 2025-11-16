@@ -44,12 +44,13 @@ used in the photos can be found here (black wire – 20 m length):
 https://www.aliexpress.com/item/1005005598428130.html
 
  ## 3D printable case🧩:
-https://www.printables.com/model/1232890-wled-sound-reactive-controller-mini-esp32-32de-cas
+https://www.printables.com/model/1232890
 
-Project can also be found here: https://oshwlab.com/mariusmym/wled-miniduo-sr-pwr_jack-pro-v1-3
+## If you want to edit the PCB
+**Project can also be found here:** https://oshwlab.com/mariusmym/wled-miniduo-sr-pwr_jack-pro-v1-3
 
-
-☕ If you'd like to say thanks or buy me a coffee, a PayPal donation is always appreciated!
+##Donate ☕
+If you'd like to say thanks or buy me a coffee, a **[PayPal donation](https://www.paypal.com/donate/?hosted_button_id=KHR7DYJP2Z8QJ)** is always appreciated!
 
 Have fun and enjoy it ! 😊
 
