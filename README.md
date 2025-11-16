@@ -12,6 +12,9 @@ ESP32-powered WLED board with sound reactive capabilities and a 6.5mm power jack
 - Perfect for WS2812/B, SK6812 & more – Smooth animations, stunning effects!
 - Use an INMP441 module to enable sound-reactive capabilities. https://www.aliexpress.com/w/wholesale-INMP441-module.html
 
+<img width="1280" height="400" alt="Screenshot 2025-11-16 160859" src="https://github.com/user-attachments/assets/ea30f9b8-9447-48f9-a4c9-d8400790152c" />
+
+  
 ## IMPORTANT INFORMATIONS ! ⚠️
 
   1.**Make sure your power supply voltage matches your LED strip voltage** (for example: 5V LEDs → 5V power supply, 12V LEDs → 12V power supply, 24V LEDs → 24V power supply).
@@ -42,6 +45,8 @@ https://www.aliexpress.com/item/1005005598428130.html
 
  ## 3D printable case🧩:
 https://www.printables.com/model/1232890-wled-sound-reactive-controller-mini-esp32-32de-cas
+
+Project can also be found here: https://oshwlab.com/mariusmym/wled-miniduo-sr-pwr_jack-pro-v1-3
 
 
 ☕ If you'd like to say thanks or buy me a coffee, a PayPal donation is always appreciated!
